@@ -1,5 +1,7 @@
 The goal of this coding exam is to quickly get you off the ground with **Dynamic Styling Using Styled Components**.
 
+published link-https://bhagyasriqo4yjrjsce98xpc.drops.nxtwave.tech/
+
 ### Refer to the image below:
 
 <br/>
